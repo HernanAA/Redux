@@ -1,0 +1,2 @@
+npm i --save redux react-redux
+npm install --save firebase
